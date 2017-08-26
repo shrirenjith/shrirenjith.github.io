@@ -1,0 +1,21 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: false
+
+# Setup
+title:               Renjith Nair
+tagline:             'Renjith Nair's Github home'
+description:         'Home of opensource projects by <a href="http://twitter.com/shrirenjith" target="_blank">@shrirenjith</a> '
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Renjith Nair
+  url:               https://twitter.com/shrirenjith
+  email:             
+
+

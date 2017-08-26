@@ -11,6 +11,6 @@ You can find more about me at [@shrirenjith](https://twitter.com/shrirenjith) or
 
 Here's some of my other blogs 
 
-* [@shrirenjith](http://medium.com/@shrirenjith)
+* [Personal Blog](http://medium.com/@shrirenjith)
 
 Thanks for reading!

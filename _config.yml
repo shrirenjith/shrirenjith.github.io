@@ -6,9 +6,9 @@ relative_permalinks: false
 
 # Setup
 title:               Renjith Nair
-tagline:             'Renjith Nair Github home'
+tagline:             'Github Home of @shrirenjith'
 description:         'Home of opensource projects by <a href="http://twitter.com/shrirenjith" target="_blank">@shrirenjith</a> '
-url:                 http://lanyon.getpoole.com
+url:                 http://shrirenjith.github.io
 baseurl:             ''
 paginate:            5
 
